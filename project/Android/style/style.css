@@ -24,6 +24,7 @@ h2{
   background-image: linear-gradient(to right, lightgreen, white)
 }
 main{
+  max-width: 370px;
   font-family: sans-serif;
   background-color: white;
   font-size: 8px;
