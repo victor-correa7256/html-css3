@@ -24,11 +24,11 @@ h2{
   background-image: linear-gradient(to right, lightgreen, white)
 }
 main{
-  max-width: 370px;
+  max-width: 610px;
   font-family: sans-serif;
   background-color: white;
   font-size: 8px;
-  margin: 10px;
+  margin: 10px auto;
   margin-top: 0px
 }
 header{
