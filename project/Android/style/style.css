@@ -10,11 +10,22 @@ nav{
   font-size: 2em;
   text-align: left;
 }
-
-
+nav > a{
+  text-decoration: none;
+  color: white;
+  margin: 15px
+}
+nav > a:hover{
+  background-color: lightgreen;
+  text-decoration: underline;
+  border-radius: 13px;
+  padding: 15px;
+  color: black
+}
 header{
-  background-image: linear-gradient(to top, darkgreen , lightgreen);
+  background-image: linear-gradient(to top, darkgreen 20% , lightgreen);
   text-align: center;
+  
 }
 header h1{
   padding: 50px 50px 25px 50px
@@ -37,20 +48,22 @@ main{
   border-radius: 0px 0px 7px 7px
 }
 
-main h2, h1{
-  padding: 10px
+main > h2{
+  margin: 7px;
+  padding: 10px;
+  background-image: linear-gradient(to right, darkgreen, transparent);
+  border-radius: 20px
 }
 main p{
-  text-indent: 50px
+  text-indent: 50px;
+  line
 }
-nav > a{
-  text-decoration: none;
-  color: white;
-  margin: 15px
+main h1{
+  padding: 20px 0px 10px 20px
 }
-nav > a:hover{
-  background-color: green;
-  text-decoration: underline;
-  border-radius: 13px;
-  padding: 15px;
+
+#i,#bd,#dd{
+  display: block;
+  margin: auto;
+  width: auto
 }
