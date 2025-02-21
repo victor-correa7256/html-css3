@@ -83,7 +83,9 @@ footer p{
 aside{
   background-color: lightgreen;
   padding: 20px;
-  border-radius: 8px
+  border-radius: 8px;
+  width: 90%;
+  height: 90%
 }
 aside ul{
   columns: 2
