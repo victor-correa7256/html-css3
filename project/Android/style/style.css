@@ -7,7 +7,7 @@
 nav{
   background-color: darkgreen;
   min-height: 1.5em;
-  font-size: 4em;
+  font-size: 2em;
   text-align: left;
 }
 nav > a{
@@ -28,12 +28,13 @@ header{
   
 }
 header h1{
-  padding: 50px 50px 25px 50px
+  padding: 50px 50px 25px 50px;
+  font-size: 3em
 }
 header p{
   display: block;
   margin: auto;
-  font-size: 0.5em;
+  font-size: 1em;
   padding-bottom: 50px;
   max-width: 700px
 }
