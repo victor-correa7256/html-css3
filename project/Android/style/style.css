@@ -86,8 +86,7 @@ aside{
   border-radius: 8px;
   width: 80%;
   height: 80%;
-  margin: auto;
-  margin: 10px
+  margin: 10px auto;
 }
 aside ul{
   columns: 2;
