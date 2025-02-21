@@ -10,11 +10,7 @@ nav{
   font-size: 2em;
   text-align: left;
 }
-nav > a{
-  text-decoration: none;
-  color: white;
-  margin: 15px
-}
+
 nav > a:hover{
   background-color: green;
   text-decoration: underline;
@@ -51,4 +47,9 @@ main h2, h1{
 }
 main p{
   text-indent: 50px
+}
+nav > a{
+  text-decoration: none;
+  color: white;
+  margin: 15px
 }
