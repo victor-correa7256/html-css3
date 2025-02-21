@@ -11,12 +11,7 @@ nav{
   text-align: left;
 }
 
-nav > a:hover{
-  background-color: green;
-  text-decoration: underline;
-  border-radius: 13px;
-  padding: 15px;
-}
+
 header{
   background-image: linear-gradient(to top, darkgreen , lightgreen);
   text-align: center;
@@ -52,4 +47,10 @@ nav > a{
   text-decoration: none;
   color: white;
   margin: 15px
+}
+nav > a:hover{
+  background-color: green;
+  text-decoration: underline;
+  border-radius: 13px;
+  padding: 15px;
 }
