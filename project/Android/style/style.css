@@ -81,7 +81,11 @@ footer p{
 }
 
 aside{
-  background-color: gray
+  background-color: gray;
+  padding: 20px
+}
+aside ul{
+  columns: 2
 }
 
 
