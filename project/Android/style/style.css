@@ -7,7 +7,7 @@
 nav{
   background-color: darkgreen;
   min-height: 1.5em;
-  font-size: 2em;
+  font-size: 4em;
   text-align: left;
 }
 nav > a{
@@ -46,7 +46,7 @@ main{
   margin: auto;
   background-color: white;
   border-radius: 0px 0px 7px 7px;
-  max-width: 1200px
+  max-width: 900px
 }
 
 main > h2{
