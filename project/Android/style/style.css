@@ -11,7 +11,7 @@ nav{
 }
 nav > a{
   text-decoration: none;
-  color: white;
+  color: lightgreen;
   margin: 15px
 }
 nav > a:hover{
