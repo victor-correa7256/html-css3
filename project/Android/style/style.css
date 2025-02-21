@@ -34,7 +34,7 @@ header h1{
 header p{
   display: block;
   margin: auto;
-  font-size: 1em;
+  font-size: 1.5em;
   padding-bottom: 50px;
   max-width: 800px
 }
