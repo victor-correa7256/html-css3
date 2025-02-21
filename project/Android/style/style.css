@@ -45,7 +45,8 @@ main{
   display: block;
   margin: auto;
   background-color: white;
-  border-radius: 0px 0px 7px 7px
+  border-radius: 0px 0px 7px 7px;
+  max-width: 1200px
 }
 
 main > h2{
