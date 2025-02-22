@@ -108,6 +108,10 @@ aside h3{
 
 #vídeo{
   position: absolute;
+  top: 5%;
+  left: 5%;
+  width: 90%;
+  heigth: 90%
 }
 
 
