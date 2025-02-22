@@ -101,14 +101,16 @@ aside h3{
   
 }
 #bgv{
-  background-color: Green
+  background-color: Green;
+  min-height: 200px
 }
 
 #vídeo{
   display: block;
   margin: auto;
   width: 90%;
-  height: 90%
+  height: 90%;
+  padding: 10px
 }
 
 
