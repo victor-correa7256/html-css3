@@ -59,7 +59,7 @@ section p{
 }
 #p2 > p, #p4 > p{
   background: rgba(0,0,0,0.5);
-  max-width: 55vw;
+  max-width: 500px;
   font-size: 0.6em;
   color: white
 }
