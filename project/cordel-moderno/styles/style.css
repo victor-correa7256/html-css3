@@ -15,6 +15,9 @@ html, body{
   min-height: 100vh;
   background: black;
 }
+body{
+  min-width: 800px
+}
 header h1{
   margin-top: 20px;
   margin-bottom: 0px;
